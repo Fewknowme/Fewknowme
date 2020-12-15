@@ -1,4 +1,4 @@
-<p align="center"><strong>Sup! I am a developer and Student! Absolutely love coding.</strong></p>
+<p align="center"><strong>I Have No Drachmae(Mon3y) To Give. Only Knowledge, Which One Should Prefer For It Is Perpetual, Not Transitory..</strong></p>
 <p align="center"><img width="125" src="https://komarev.com/ghpvc/?username=Fewknowme&style=flat-square&color=blueviolet" alt="Fewknowme"></p>
 <p align="center"><img width="100" src="https://github.githubassets.com/images/mona-whisper.gif"></p>
 <p align="center"><a href="https://github.com/Fewknowme"><img src="https://github-readme-stats.vercel.app/api?username=Fewknowme&show_icons=true&theme=tokyonight"></a></p>

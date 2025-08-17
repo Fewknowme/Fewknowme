@@ -6,10 +6,8 @@
 
 <p align="center">
 <h3 align="center">Connect with me:</h3>
-<a href="https://twitter.com/is_i_rohit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="is_i_rohit" height="30" width="40" /></a>
+<a href="https://x.com/404_rohit_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="is_i_rohit" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rohit-madas-41328b178" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rohit-madas-41328b178" height="30" width="40" /></a>
-<a href="https://fb.com/wnnab3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="wnnab3" height="30" width="40" /></a>
-<a href="https://instagram.com/pride_es" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pride_es" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>

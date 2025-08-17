@@ -81,6 +81,6 @@
 <p align="center">
   <a href="https://x.com/404_rohit_" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="30" width="40"/></a>
   <a href="https://linkedin.com/in/rohit-madas-41328b178" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="30" width="40"/></a>
-  <a href="https://peerlist.io/rohitmadas" target="_blank"><img src="https://peerlist.io/favicon-32x32.png" height="30" width="30"/></a>
+  <a href="https://peerlist.io/rohitmadas" target="_blank"><img src="https://media.licdn.com/dms/image/v2/C4D0BAQGjCtiL8FcUcw/company-logo_200_200/company-logo_200_200/0/1646835555233/peerlist_logo?e=2147483647&v=beta&t=BDkNItLoTzk-wReBiGgHqakmvc5iQnulzdCTPafcRMU" height="30" width="30"/></a>
   <a href="https://medium.com/@rohitmadas744" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" height="30" width="40"/></a>
 </p>

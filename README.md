@@ -1,9 +1,7 @@
 <h1 align="center">Hey 👋, I'm Rohit Madas</h1>
-<h3 align="center">Senior Software Engineer | React & React Native Specialist</h3>
-
-<p align="center">
-  <strong>I Have No Drachmae (Mon3y) To Give. Only Knowledge, Which One Should Prefer For It Is Perpetual, Not Transitory..</strong>
-</p>
+<h3 align="center">
+Senior Software Engineer | React & React Native Specialist | Next.js | TypeScript | JavaScript (ES6+) | GitHub Actions | Angular | Android (Java) | Node.js | Express.js | REST APIs | Firebase | AWS | CI/CD | UI/UX Optimization | Performance Engineering
+</h3>
 
 ---
 
@@ -20,7 +18,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🚀 Senior Software Engineer with **4+ years of experience** in building scalable web & mobile apps.  
+- 🚀 Senior Software Engineer with **5+ years of experience** in building scalable web & mobile apps.  
 - 💡 Specialist in **React, React Native, Next.js, and TypeScript** with a focus on performance-driven UI/UX.  
 - 🌏 Experienced working with **global teams (Australia, Singapore, US)**.  
 - 📱 Built products across **FinTech, Matrimony, Captive Portals, Fitness, and SaaS platforms**.  

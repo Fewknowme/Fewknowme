@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Rohit Madas</h1>
 <h3 align="center">
-Senior Software Engineer | React & React Native Specialist | Next.js | TypeScript | JavaScript (ES6+) | GitHub Actions | Angular | Android (Java) | Node.js | Express.js | REST APIs | Firebase | AWS | CI/CD | UI/UX Optimization | Performance Engineering
+Senior React Native & Full-Stack Developer | FinTech Payments | TypeScript | AWS
 </h3>
 
 ---
@@ -17,12 +17,17 @@ Senior Software Engineer | React & React Native Specialist | Next.js | TypeScrip
 
 ---
 
-### 👨‍💻 About Me  
-- 🚀 Senior Software Engineer with **5+ years of experience** in building scalable web & mobile apps.  
-- 💡 Specialist in **React, React Native, Next.js, and TypeScript** with a focus on performance-driven UI/UX.  
-- 🌏 Experienced working with **global teams (Australia, Singapore, US)**.  
-- 📱 Built products across **FinTech, Matrimony, Captive Portals, Fitness, and SaaS platforms**.  
-- ✍️ I also share my thoughts on **[Medium](https://medium.com/@rohitmadas744)** and actively engage on **[Peerlist](https://peerlist.io/rohitmadas)**.  
+### 👨‍💻 About Me
+
+- 💳 Building payment-critical apps — UPI, Cashfree, PayU, ISG 
+  gateway integrations in production
+- 📱 5+ years in React Native & React/Next.js across FinTech, 
+  E-Commerce, and SaaS
+- ☁️ AWS deployments — EC2, S3, CloudFront, DNS, CI/CD pipelines
+- 🌏 Delivered for clients in Australia, Bulgaria, Singapore & India
+- 🏆 Heart & Hustle Award + Innovation Q3 Award @ KIPL Global
+- 📲 Published on Play Store → Local Notes ( Personal )
+- 🔎 Open to senior roles in UAE / Singapore / EU
 
 ---
 

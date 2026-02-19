@@ -26,7 +26,7 @@ Senior React Native & Full-Stack Developer | FinTech Payments | TypeScript | AWS
 - ☁️ AWS deployments — EC2, S3, CloudFront, DNS, CI/CD pipelines
 - 🌏 Delivered for clients in Australia, Bulgaria, Singapore & India
 - 🏆 Heart & Hustle Award + Innovation Q3 Award @ KIPL Global
-- 📲 Published on Play Store → Local Notes ( Personal )
+- 📲 Published on Play Store → Local Notes, OpsLivo ( Personal )
 - 🔎 Open to senior roles in UAE / Singapore / EU
 
 ---
